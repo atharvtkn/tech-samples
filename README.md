@@ -2,10 +2,13 @@
 samples of technical work
 
 sample 1
-![App Screenshot](sample2.png)
+![App Screenshot](sample1.png)
 
 sample 2
-![App Screenshot](sample1.png) 
+![App Screenshot](sample2.png) 
 
 sample 3
 ![App Screenshot](sample3.png)
+
+sample 4
+![App Screenshot](sample4.png)
